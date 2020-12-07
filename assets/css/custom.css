@@ -1,0 +1,220 @@
+.tabs-left {
+  border-bottom: none;
+}
+.sideways {
+    display: block;
+    background: #212121;
+    margin-bottom: 30px !important;
+}
+.tabs-left>li {
+  float: none;
+  border-bottom: 1px solid rgba(204,204,204,0.5);
+  padding: 0 !important;
+}
+.sideways li a {
+    color: #fff;
+    font-size: 11px;
+    line-height: 24px;
+    padding: 4px 12px;
+    text-align: left;
+    display: block;
+}
+span.nos {
+    margin-left: 3px;
+    font-weight: 600;
+    float: right;
+    text-align: right;
+}
+.tabs-left>li.active>a,
+.tabs-left>li.active>a:hover,
+.tabs-left>li.active>a:focus { 
+  color: #ef4838;
+}
+.sideways li a.active {
+    color: #fff !important;
+    border: 1px solid red;
+}
+.sideways li a.active:hover {
+    color: #fff !important;
+    border: 1px solid red;
+}
+.sideways li li:hover {
+    border: 1px solid red;
+}
+h4.karala-map {
+    color: #000;
+    background: #fff;
+    font-size: 14px;
+    display: table;
+    padding: 3px 9px;
+}
+.nav-tabs>li>a:hover {
+    /* margin-right: 2px; */
+    color: #fff;
+    /* border-radius: 4px 4px 0 0; */
+}
+/*.tabs-left>li.active>a::after{content: "";
+    position: absolute;
+    top: 10px;
+    right: -10px;
+    border-top: 10px solid transparent;
+  border-bottom: 10px solid transparent;
+  border-left: 10px solid #f90;
+    display: block;
+    width: 0;}*/
+
+
+/* Parallax base styles
+  --------------------------------------------- */
+.slider-1 {
+    background-image: url('../slider/assets/FD_Banner_1.jpg');
+    height: 600px;
+    padding-bottom: 50px;
+    background-attachment: fixed;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 45px;
+}
+.slider-2 {
+    background-image: url('../slider/assets/FD_Banner_2.jpg');
+    height: 600px;
+    padding-bottom: 50px;
+    background-attachment: fixed;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 45px;
+}
+.slider-3 {
+    background-image: url('../slider/assets/FD_Banner_3.jpg');
+    height: 600px;
+    padding-bottom: 50px;
+    background-attachment: fixed;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 45px;
+}
+.slider-4 {
+    background-image: url('../slider/assets/FD_Banner_4.jpg');
+    height: 600px;
+    padding-bottom: 50px;
+    background-attachment: fixed;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 45px;
+}
+.slider-5 {
+    background-image: url('../slider/assets/FD_Banner_5.jpg');
+    height: 600px;
+    padding-bottom: 50px;
+    background-attachment: fixed;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 45px;
+}
+
+.slider-11 {
+    background-image: url('../slider/assets/Caselist_01.jpg');
+    height: 600px;
+    padding-bottom: 50px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 45px;
+}
+.slider-22 {
+    background-image: url('../slider/assets/Caselist_02.jpg');
+    height: 600px;
+    padding-bottom: 50px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 45px;
+}
+.slider-33 {
+    background-image: url('../slider/assets/Caselist_03.jpg');
+    height: 600px;
+    padding-bottom: 50px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 45px;
+}
+.slider-44 {
+    background-image: url('../slider/assets/Caselist_04.jpg');
+    height: 600px;
+    padding-bottom: 50px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 45px;
+}
+
+.slider-111 {
+    background-image: url('../slider/assets/IndiaMap.jpg');
+    height: 600px;
+    padding-bottom: 50px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 45px;
+}
+.slider-222 {
+    background-image: url('../slider/assets/PoliceHunt.jpg');
+    height: 600px;
+    padding-bottom: 50px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 45px;
+}
+.slider-333 {
+    background-image: url('../slider/assets/Maha.jpg');
+    height: 600px;
+    padding-bottom: 50px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 45px;
+}
+.slider-444 {
+    background-image: url('../slider/assets/Delhi.jpg');
+    height: 600px;
+    padding-bottom: 50px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 45px;
+}
+.slider-555 {
+    background-image: url('../slider/assets/Gujarat.jpg');
+    height: 600px;
+    padding-bottom: 50px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 45px;
+}
+.slider-666 {
+    background-image: url('../slider/assets/TN.jpg');
+    height: 600px;
+    padding-bottom: 50px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 45px;
+}

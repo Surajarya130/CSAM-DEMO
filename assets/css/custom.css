@@ -68,53 +68,53 @@ h4.karala-map {
   --------------------------------------------- */
 .slider-1 {
     background-image: url('../slider/assets/FD_Banner_1.jpg');
-    height: 600px;
-    padding-bottom: 50px;
+    height: 800px;
+    /* padding-bottom: 50px; */
     background-attachment: fixed;
     background-position: top;
     background-repeat: no-repeat;
     background-size: cover;
-    padding-top: 45px;
+    /* padding-top: 45px; */
 }
 .slider-2 {
     background-image: url('../slider/assets/FD_Banner_2.jpg');
-    height: 600px;
-    padding-bottom: 50px;
+    height: 800px;
+    /* padding-bottom: 50px; */
     background-attachment: fixed;
     background-position: top;
     background-repeat: no-repeat;
     background-size: cover;
-    padding-top: 45px;
+    /* padding-top: 45px; */
 }
 .slider-3 {
     background-image: url('../slider/assets/FD_Banner_3.jpg');
-    height: 600px;
-    padding-bottom: 50px;
+    height: 800px;
+    /* padding-bottom: 50px; */
     background-attachment: fixed;
     background-position: top;
     background-repeat: no-repeat;
     background-size: cover;
-    padding-top: 45px;
+    /* padding-top: 45px; */
 }
 .slider-4 {
     background-image: url('../slider/assets/FD_Banner_4.jpg');
-    height: 600px;
-    padding-bottom: 50px;
+    height: 800px;
+    /* padding-bottom: 50px; */
     background-attachment: fixed;
     background-position: top;
     background-repeat: no-repeat;
     background-size: cover;
-    padding-top: 45px;
+    /* padding-top: 45px; */
 }
 .slider-5 {
     background-image: url('../slider/assets/FD_Banner_5.jpg');
-    height: 600px;
-    padding-bottom: 50px;
+    height: 800px;
+    /* padding-bottom: 50px; */
     background-attachment: fixed;
     background-position: top;
     background-repeat: no-repeat;
     background-size: cover;
-    padding-top: 45px;
+    /* padding-top: 45px; */
 }
 
 .slider-11 {

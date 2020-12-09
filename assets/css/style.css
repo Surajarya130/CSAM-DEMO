@@ -1868,31 +1868,41 @@ img
 		width:90%;
 	}
 	.bar2{
-		width:30%;
+		/* width:30%; */
+		width:2.66%;
 	}
 	.bar3{
-		width:29%;
+		/* width:29%; */
+		width:0.73%;
 	}
 	.bar4{
-		width:28%;
+		/* width:28%; */
+		width:0.49%;
 	}
 	.bar5{
-		width:27%;
+		/* width:27%; */
+		width:0.44%;
 	}
 	.bar6{
-		width:25%;
+		/* width:25%; */
+		width:0.44%;
 	}
 	.bar7{
-		width:23%;
+		/* width:23%; */
+		width:0.27%;
 	}
+
 	.bar8{
-		width:22%;
+		/* width:22%; */
+		width:0.12%;
 	}
 	.bar9{
-		width:21%;
+		/* width:21%; */
+		width:0.10%;
 	}
 	.bar10{
-		width:20%;
+		/* width:20%; */
+		width:0.08%;
 	}
 	.bar11{
 		width:19%;
@@ -1944,7 +1954,8 @@ img
 	}
 	.total-count
 	{
-	background:rgba(17,17,17,1);
+		/* Changed CSS */
+	/* background:rgba(17,17,17,1);
 	color:white;
 	font-size:11px;	
 	padding: 6px;
@@ -1952,7 +1963,18 @@ img
 	display: inline-block;
 	position: relative;
 	top: -5px;
-	left:10px;
+	left:10px; */
+	background: rgba(17,17,17,1);
+    color: white;
+    font-size: 11px;
+    padding: 5px;
+    line-height: 10px;
+    display: inline-block;
+    position: relative;
+    top: -6px;
+    left: 6px;
+
+
 	}
 	.bottcontent {
 	  padding: 80px 0px 30px;

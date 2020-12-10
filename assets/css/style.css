@@ -75,6 +75,17 @@ body{
     overflow-y: scroll;
 }
 
+.distTool{
+	display: inline;
+	font-size: 13px;	
+    position: absolute;
+	right: 17px;
+    font-family: 'Barlow';
+}
+
+
+
+
 
 .mainBox::-webkit-scrollbar {
     display: none;
@@ -295,6 +306,15 @@ body{
 		background-size: contain;
 		padding-bottom: 2%;
 	} */
+
+	.distTool{
+		display: block;
+		font-size: 13px;	
+		position: relative;;
+		left: 0px;
+		/* margin-bottom: 15px; */
+	}
+	
 
 	.smallChangeThree{
 		position: relative;

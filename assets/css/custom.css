@@ -45,7 +45,7 @@ h4.karala-map {
     color: #000;
     background: #fff;
     font-size: 14px;
-    display: table;
+    display: inline;
     padding: 3px 9px;
 }
 .nav-tabs>li>a:hover {

@@ -459,6 +459,10 @@ body{
 		padding-bottom: 2%;
 	} */
 
+	#myImg{
+		left:25px;
+	}
+
 	.distTool{
 		display: block;
 		font-size: 13px;	

@@ -84,8 +84,15 @@ body{
 }
 
 
+.smartQ{
+	font-family: none;
+}
 
-
+.headVigne{
+	color: white;
+    text-align: center;
+    padding-bottom: 30px;
+}
 
 
 
